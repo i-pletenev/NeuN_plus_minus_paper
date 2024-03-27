@@ -6,10 +6,10 @@ Create conda environment from **env1.yml** to run the following scripts:
 - 2_Figure1_contact_scaling.ipynb
 - 3_Figure1_chromatin_compartments.ipynb
 - 4_Figure1_DLR.ipynb
-- fithic.ipynb
-- Figure4_polycomb_interactions.ipynb
-- Figure4_H3K9me3_profile.ipynb
-- Figure5_snm3C-seq.ipynb
+- 10_fithic.ipynb
+- 11_Figure4_polycomb_interactions.ipynb
+- 12_Figure4_H3K9me3_profile.ipynb
+- 13_Figure5_snm3C-seq.ipynb
 
 Create conda environment from **env2.yml** to run the following scripts:
 - 5_Fig1_cis_to_trans_contacts.ipynb
