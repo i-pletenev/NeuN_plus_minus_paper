@@ -10,3 +10,10 @@ Create conda environment from **env1.yml** to run the following scripts:
 - Figure4_polycomb_interactions.ipynb
 - Figure4_H3K9me3_profile.ipynb
 - Figure5_snm3C-seq.ipynb
+
+Create conda environment from **env2.yml** to run the following scripts:
+- 5_Fig1_cis_to_trans_contacts.ipynb
+- 6_Fig1_tad_borders_PCA.ipynb
+- 7_Fig2_tad_borders_properties_part1.ipynb
+- 8_Fig2_tad_and_thier_borders_properties_part2.ipynb
+- 9_Fig3_chromtain_loops_properties.ipynb
